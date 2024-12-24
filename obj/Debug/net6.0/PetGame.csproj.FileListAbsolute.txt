@@ -1,0 +1,15 @@
+/home/runner/PetGame/bin/Debug/net6.0/PetGame
+/home/runner/PetGame/bin/Debug/net6.0/PetGame.deps.json
+/home/runner/PetGame/bin/Debug/net6.0/PetGame.runtimeconfig.json
+/home/runner/PetGame/bin/Debug/net6.0/PetGame.dll
+/home/runner/PetGame/bin/Debug/net6.0/PetGame.pdb
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.csproj.AssemblyReference.cache
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.AssemblyInfoInputs.cache
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.AssemblyInfo.cs
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.csproj.CoreCompileInputs.cache
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.dll
+/home/runner/PetGame/obj/Debug/net6.0/refint/PetGame.dll
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.pdb
+/home/runner/PetGame/obj/Debug/net6.0/PetGame.genruntimeconfig.cache
+/home/runner/PetGame/obj/Debug/net6.0/ref/PetGame.dll
